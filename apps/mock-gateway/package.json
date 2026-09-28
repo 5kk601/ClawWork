@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@clawwork/openclaw-protocol": "workspace:*",
-    "tsx": "^4.23.13",
+    "tsx": "^4.23.15",
     "ws": "^8.21.3"
   },
   "devDependencies": {
