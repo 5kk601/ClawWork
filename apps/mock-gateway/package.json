@@ -13,12 +13,12 @@
   },
   "dependencies": {
     "@clawwork/openclaw-protocol": "workspace:*",
-    "tsx": "^4.23.13",
-    "ws": "^8.21.3"
+    "tsx": "^4.23.15",
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@types/node": "^22.19.15",
-    "@types/ws": "^8.18.1",
+    "@types/ws": "^8.18.2",
     "typescript": "^5.9.3",
     "vitest": "^3.2.4"
   }
